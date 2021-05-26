@@ -29,7 +29,7 @@
 	</p>
 	<p>
 		<a href="https://www.linkedin.com/in/mohammad-saquib-khan-1b032b171/">
-			<img alt="LinkedIn @MrAhmadAwais" align="center" 
+			<img alt="LinkedIn @MrSaquibKhan" align="center" 
 src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" />
 		</a>&nbsp;
 		<small>
