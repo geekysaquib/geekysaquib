@@ -1,144 +1,132 @@
-<div align="left">
-<p><a href="https://www.youtube.com/watch?v=VX3LdDVv88g"><img alt="YouTube.com" align="center" src="https://img.shields.io/badge/LEARN-FETCHING%20DATA%20FROM%20SQL%20PHP%20-gray.svg?colorA=596577&colorB=6A788D&style=for-the-badge" /></a>&nbsp; <strong>IMP:</strong> I'm teaching developers how to write Backend Code in PHP (Data Retrieving)
-</p></div>
+<div align="center">
 
-<div align="left">
-	<p>
-		<a href="https://twitter.com/Mohamma13288237">
-			<img alt="Twitter @MohammadSaquibKhan" align="center" src="https://img.shields.io/badge/-@MohammadSaquibKhan-gray.svg?colorA=04258E&colorB=04258E&style=for-the-badge" />
-		</a>&nbsp;
-		<small>
-			<strong>(Follow)</strong> To get Web development tips
-		</small>
-	</p>
-	<p>
-		<a href="https://www.youtube.com/channel/UCBB7QkP5Sdn4Z1SJfXsmpeg">
-			<img alt="YouTube Studyeze" align="center" src="https://img.shields.io/badge/YOUTUBE-gray.svg?colorA=E74C3C&colorB=E74C3C&style=for-the-badge" />
-		</a>&nbsp;
-		<small>
-			<strong>(Subscribe)</strong> Tech Talks & #LearningVideos
-		</small>
-	</p>
-	<p>
-		<a href="https://Studyeze.in/">
-			<img alt="Website: Studyeze.in" align="center" src="https://img.shields.io/badge/-STUDYEZE-gray.svg?colorA=727CF5&colorB=727CF5&style=for-the-badge" />
-		</a>&nbsp;
-		<small>
-			<strong>(LIVE)</strong> E-Learning platform | Courses | Blogs | WebCode | Events | E-Library
-		</small>
-	</p>
-	<p>
-		<a href="https://www.linkedin.com/in/mohammad-saquib-khan-1b032b171/">
-			<img alt="LinkedIn @MrSaquibKhan" align="center" 
-src="https://img.shields.io/badge/LINKEDIN-gray.svg?colorA=6A788D&colorB=6A788D&style=for-the-badge" />
-		</a>&nbsp;
-		<small>
-			<strong>(Connect)</strong> On LinkedIn y'all
-		</small>
-	</p>
+# Mohammad Saquib Khan
+### Senior Full Stack Developer · AI & Engineering · Open Source
+
+[![Twitter](https://img.shields.io/badge/-@MohammadSaquibKhan-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/Mohamma13288237)
+[![LinkedIn](https://img.shields.io/badge/-Mohammad%20Saquib%20Khan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-saquib-khan-1b032b171/)
+[![YouTube](https://img.shields.io/badge/-Studyeze-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBB7QkP5Sdn4Z1SJfXsmpeg)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@saquib28)
+[![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~geekysaquib)
+
 </div>
 
-[![Sponsor Saquib](https://studyeze.in/gitlab/saquibkhan.png)][s]
+---
 
-<small><strong>❯❯ Professional Development Courses ↓</strong></small>
+## About Me
 
-[![PHP Course](https://img.shields.io/badge/LEARN-PHP%20Backend%20Code%20%E2%86%92-gray.svg?colorA=61c265&colorB=4CAF50&style=for-the-badge)][n] [![Java Core Course](https://img.shields.io/badge/LEARN-JAVA%20(Core)%20Code%20Power%20User%20%E2%86%92-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge)][v] [![Deno Course](https://img.shields.io/badge/WORKING-WebCode%20(free)%20%E2%86%92-gray.svg?colorA=6B999F&colorB=6A788D&style=for-the-badge)][d]
+I'm a **Senior Full Stack Developer** with 4+ years of experience building enterprise-grade products. Currently working on a Japan-based client project at **Meritech**, shipping production systems daily with **.NET Core**, **React**, **Next.js**, **TypeScript**, and **Azure**.
 
-![](https://github.com/geekysaquib)
+Outside of work I'm the founder of **[Studyeze](https://studyeze.in)** — a Startup India–recognised e-learning platform with a large global learner base that I originally built during my engineering degree. I also build and ship open source tools and solo products like **lulu.** (e-commerce) and **schedulepro-calendar** (npm).
 
-[s]: https://github.com/geekysaquib
-[n]: https://www.youtube.com/watch?v=vKxj1ZVu8LQ
-[v]: https://www.youtube.com/watch?v=4924a_nCjwk
-[d]: https://www.youtube.com/watch?v=9oNvB9guHuo
-[g]: https://github.com/geekysaquib
+- 🏢 Senior Full Stack Developer at **Meritech** (Japan client — Lizera)
+- 🚀 Founder of **Studyeze** — Startup India recognised e-learning platform
+- 📦 Published npm packages: [`schedulepro-calendar`](https://www.npmjs.com/package/schedulepro-calendar)
+- 🎓 B.Tech — United College of Engineering & Research, Allahabad
+- ✍️ Writing on [Medium](https://medium.com/@saquib28) about web development
+- 📍 Based in Uttar Pradesh, India
 
+---
 
-## 🎉 Blog & Writing
+## Tech Stack
 
-Apart from coding, I also maintain a blog - you can find my articles on my website  on [Medium](https://medium.com/@saquib28)
+**Frontend**
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/php-PHP-green?style=flat&logo=php&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Node%20JS-Node%20Js-green?style=flat&logo=nodejs&logoColor=white&color=2bbc8a)
- <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/static/v1?label=Vue.js&amp;message=v2.6&amp;color=4FC08D&amp;style=flat-square&amp;logo=vue.js&amp;logoColor=ffffff" alt="vue.js">
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
-  <img alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="Amazon_AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
+**Backend**
 
+![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## &#x1f4c8; GitHub Stats
+**Database & Cloud**
 
-<a href="https://github.com/geekysaquib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekysaquib&hide=css,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/geekysaquib">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=geekysaquib&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Saquib's GitHub Stats" />
-</a>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-<a href="https://github.com/geekysaquib/Kahoot-NodeJS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=geekysaquib&repo=Kahoot-NodeJS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+**Tools & DevOps**
 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-46A2F1?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-   
+---
 
-<!-- links to social media icons -->
+## Featured Projects
 
-<!-- icons with padding -->
+### 📅 schedulepro-calendar
+> Enterprise-grade staff reservation calendar for React & Next.js
 
+[![npm](https://img.shields.io/npm/v/schedulepro-calendar?style=flat-square&color=CB3837)](https://www.npmjs.com/package/schedulepro-calendar)
+[![GitHub](https://img.shields.io/badge/GitHub-geekysaquib%2Fschedulepro--calendar-181717?style=flat-square&logo=github)](https://github.com/geekysaquib/schedulepro-calendar)
 
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+24-hour timeline · Per-staff rows · Drag & drop · Dark/light theme · TypeScript · Japanese holiday support
 
-<!-- icons without padding -->
+```bash
+npm install schedulepro-calendar
+```
 
+---
 
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+### 🎓 Studyeze
+> Startup India–recognised e-learning platform
 
+[![Website](https://img.shields.io/badge/Website-studyeze.in-727CF5?style=flat-square)](https://studyeze.in)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UCBB7QkP5Sdn4Z1SJfXsmpeg)
 
-<!-- links to your social media accounts -->
+Full e-learning platform with courses, blogs, live code editor, DSA prep, certifications and placement resources. Built originally with PHP, rebuilt in Next.js 14 + Supabase.
 
+---
 
-[2]: https://github.com/geekysaquib
-[3]: https://www.linkedin.com/in/mohammad-saquib-khan-1b032b171/
+### 🛍 lulu.
+> Solo luxury e-commerce product — Next.js 15 + Supabase
 
+Editorial design · Admin dashboard · Receipt generation · Realtime inventory · Middleware auth
 
- <details>
-<summary>📊 Github Stats</summary>
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=geekysaquib&show_icons=true&theme=gotham" alt="Mohammad Saquib Khan | Stats" />
+## GitHub Stats
 
-</details>
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=geekysaquib&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&icon_color=3b82f6&text_color=94a3b8" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geekysaquib&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8&hide=css,html" height="160"/>
 
- ![Visitor Count](https://profile-counter.glitch.me/{geekysaquib}/count.svg)
+</div>
 
+<div align="center">
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=geekysaquib&theme=tokyonight&hide_border=true&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=f97316&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=475569)](https://github.com/geekysaquib)
 
+</div>
 
+---
+
+## Let's Connect
+
+<div align="center">
+
+I'm always open to collaborating on interesting projects, open source, or just talking tech.
+
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Mohamma13288237)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-saquib-khan-1b032b171/)
+[![Studyeze](https://img.shields.io/badge/Studyeze-Visit-727CF5?style=for-the-badge)](https://studyeze.in)
+[![Medium](https://img.shields.io/badge/Medium-Read-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@saquib28)
+
+![Visitor Count](https://profile-counter.glitch.me/geekysaquib/count.svg)
+
+</div>
